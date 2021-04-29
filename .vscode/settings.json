@@ -1,0 +1,40 @@
+{
+    "workbench.colorTheme": "Andromeda Italic Bordered",
+    "workbench.iconTheme": "helium-icon-theme",
+    "editor.columnSelection": false,
+    "workbench.sideBar.location": "left",
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true,
+    "editor.renderWhitespace": "all",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "files.autoSave": "off",
+    "files.associations": {},
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    },
+    "editor.cursorWidth": 3,
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#ff0512",
+        "terminalCursor.foreground": "#a6ff00"
+    },
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": true,
+    "svg.preview.background": "transparent",
+    "liveServer.settings.port": 8080,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/."
+        }
+    ]
+}

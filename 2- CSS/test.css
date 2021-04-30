@@ -1,0 +1,14 @@
+a
+{
+    color: blue !important;
+}
+
+nav > a
+{
+    color: red;
+}
+
+nav a
+{
+    color: green;
+}

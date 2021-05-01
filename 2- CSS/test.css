@@ -1,14 +1,18 @@
-a
+#d1
 {
-    color: blue !important;
+    background-color: red;
+    margin-bottom: 10px;
+    height: 100px;
+    width: 200px;
 }
 
-nav > a
+#spn
 {
-    color: red;
-}
-
-nav a
-{
-    color: green;
+    background-color: green;
+    /* display: inline-block; */
+    /* height: 100px; */
+    width: 100px;
+    margin-left: 15px;
+    padding-left: 20px;
+    margin-top: 50px;
 }

@@ -1,18 +1,87 @@
-#d1
-{
-    background-color: red;
-    margin-bottom: 10px;
-    height: 100px;
-    width: 200px;
+/* * {
+    font-size: 20px;
+    font-weight: 500;
+    /* margin: 0;
+    /* padding: 0;
+    /* box-sizing: border-box; 
 }
 
-#spn
-{
-    background-color: green;
-    /* display: inline-block; */
-    /* height: 100px; */
+.parent {
+    background-color: cornflowerblue;
+    padding: 10px;
+}
+
+.child {
+    padding: 5px;
+}
+
+.child-one {
+    background-color: springgreen;
+    padding: 10px;
+    height: 20px;
+}
+
+.child-two {
+    background-color: tomato;
+    padding: 10px;
+    height: 20px;
+}
+
+.child-three {
+    background-color: violet;
+    padding: 10px;
+    height: 20px;
+}
+
+.parent {
+    position: relative;
+    height: 200vh;
+}
+
+.child-one {
+    position: sticky;
+    top: 40px;
+}
+
+.child-two {
+
+}
+
+.child-three {
+    
+} */
+
+/* .parent {
+    border: 1px solid black;
+    width: 50%;
+}
+
+.box {
+    border: 1px solid black;
+    background-color: red;
+    margin: 2px;
+}
+
+.fifty-percent {
+    width: 50%;
+}
+
+.fifty-vw {
+    width: 50vw;
+}
+
+.twenty-five-vh {
+    height: 25vh;
+}
+
+.one-hundred-pixels {
     width: 100px;
-    margin-left: 15px;
-    padding-left: 20px;
-    margin-top: 50px;
+} */
+
+.parent {
+    border: 1px solid black;
+}
+
+.one-rem {
+    
 }
